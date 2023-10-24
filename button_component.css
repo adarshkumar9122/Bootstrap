@@ -1,0 +1,8 @@
+.container{
+    /* background-color: yellow; */
+}
+.btn-info{
+    /* background ka color change karne ke baad hover krne pe phir se bootstrap wala hi color aajayega.
+    or bootstrap ke through diye color ko bhi reset karna padega */
+    background-color: pink;
+}
